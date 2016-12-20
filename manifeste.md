@@ -7,6 +7,9 @@ image_url: https://framapic.org/2oZGU2o5yu7r/4fj1x5mKXvUf.jpg
 # We Are Biomers Manifesto
 
 Le texte qui suit est basé sur, et librement inspiré, du [Biopunk manifesto](https://vimeo.com/18201825) de Meredith Patterson
+## Seconde tentative de modification
+Dans ma première modification, je disais juste que j'avais imprimé ce manifesto pour inspiration.
+Ici je vais tenter de mettre un lien [Cybernadette](https://medias-cite.coop/cybernadette/)
 
 
 Le biomimétisme consiste à s'inspirer des innovations du vivant pour apporter des solutions aux défis sociétaux actuels et futurs. Imiter les formes, les matières, les systèmes éprouvés par 3,8 milliards d'années d'évolutions et fonctionnant sans produire de déchets, c'est faire du biomimétisme; cela consiste également s’évertuer à l'optimisation des flux d’informations, de matière et d'énergies.
