@@ -8,6 +8,8 @@ image_url: https://framapic.org/2oZGU2o5yu7r/4fj1x5mKXvUf.jpg
 
 Le texte qui suit est basé sur, et librement inspiré, du [Biopunk manifesto](https://vimeo.com/18201825) de Meredith Patterson
 
+J'ai imprimé ce manifeste pour nous en inspirer à Esprit FabLab il y a quelques temps.
+## Essai titre 2ème niveau
 
 Le biomimétisme consiste à s'inspirer des innovations du vivant pour apporter des solutions aux défis sociétaux actuels et futurs. Imiter les formes, les matières, les systèmes éprouvés par 3,8 milliards d'années d'évolutions et fonctionnant sans produire de déchets, c'est faire du biomimétisme; cela consiste également s’évertuer à l'optimisation des flux d’informations, de matière et d'énergies.
 
